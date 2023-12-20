@@ -26,7 +26,7 @@
 </code></pre>
 
 # 2. ERD
-![Alt text](https://github.com/junseok-99/Shopping_Project/assets/81612834/b211291d-da05-4791-b7fd-4b34d0c5bb2e)
+![Alt text](https://github.com/junseok-99/Shopping_Project/assets/81612834/b211291d-da05-4791-b7fd-4b34d0c5bb2e)   
 진행하며 지속적으로 보완할 예정
 # 3. System Architecture
 아키텍처 구상중
