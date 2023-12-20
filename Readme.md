@@ -14,6 +14,9 @@
 ![Alt text](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   
 ![Alt text](https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+# 예상 이미지
+![Alt text](https://github.com/junseok-99/Shopping_Project/assets/81612834/708ab45f-c858-488f-9769-1dc27c48d959)
+![Alt text](https://github.com/junseok-99/Shopping_Project/assets/81612834/9fb89c98-bdbe-4601-948e-10d50b64667b)
 # 1. Motivation
 <pre><code>- 다양한 기능들이 존재하는 쇼핑몰 홈페이지를 직접 개발해보며 Spring Framework 학습
 - Entity를 직접 설계하여 ERD를 그리는 연습
@@ -23,10 +26,10 @@
 </code></pre>
 
 # 2. ERD
-...
-
+![Alt text](https://github.com/junseok-99/Shopping_Project/assets/81612834/b211291d-da05-4791-b7fd-4b34d0c5bb2e)
+진행하며 지속적으로 보완할 예정
 # 3. System Architecture
-...
+아키텍처 구상중
 
 # 4. 개발 목표
 <pre><code> - chatGPT와 협업하여 쇼핑몰 프로젝트 
